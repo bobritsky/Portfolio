@@ -9,5 +9,5 @@ For the online store I've evaluated revenue, average check, cohorts conversion, 
 и средних чеков по сырым и очищенным данным. На основании анализа мной было
 принято решение о нецелесообразности дальнейшего проведения теста.
 
-A/B-тестирование,Matplotlib,Pandas,Python,SciPy,проверка статистических гипотез
+A/B-тестирование, Matplotlib, Pandas, Python, SciPy, проверка статистических гипотез
 
