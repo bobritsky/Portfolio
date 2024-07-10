@@ -3,6 +3,7 @@ Based on sales data provided by the local Ecom retail store selling goods for ho
 Tools used: Python, Seaborn, Matplotlib, hypothesis testing, Tableau, web parsing, ABC & RFM categorisation
 
 <hr>
+
 # Анализ товарного ассортимента интернет-магазина товаров для дома
 
 На основе данных транзакций **интернет-магазина товаров для дома и быта «Пока все ещё тут»**, нам надо сделать анализ товарного предложения и продаж для составления рекомендаций по ассортиментной политике для менеджеров по товарному ассортименту.
