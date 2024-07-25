@@ -6,3 +6,5 @@ giving A category for most valuable products (more sales), B for less valuable a
 
 My point was trying to make it using different tools - **Python, SQL, Google Sheets and Tableau**.
 Data I've been using is a Superstore sales file in *.xlsx format.
+
+There will be separate Jupyter Notebook files each for different method.
