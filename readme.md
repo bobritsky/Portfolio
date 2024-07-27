@@ -1,5 +1,4 @@
 # Portfolio
-Projects done during my Yandex Practicum Data Analysis course &amp; other projects.
 
 | Project name | Description  | Tools & Areas |
 | :--------------------: | :---------------------: |:---------------------------:|
