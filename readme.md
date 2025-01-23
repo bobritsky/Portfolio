@@ -2,6 +2,7 @@
 
 | Project name | Description  | Tools & Areas |
 | :--------------------: | :---------------------: |:---------------------------:|
+|[Traffic accidents data analysis](https://github.com/bobritsky/Portfolio/tree/main/Traffic_accidents_analysis)|in-depth analysis, hypothesis testing and dashboard for a non-commercial organisation working with traffic accidents in Russia as a client | Python, Datalens, web-scraping 
 |[Tableau and Datalens dashboards for a charity fund](https://github.com/bobritsky/Portfolio/tree/957635b47a2e4f0d8d061ba6099c933aead4c1c1/Charity_fund_dashboard)|Project of making dashboards of all required metrics for a charity fund as a client| Python, PostgreSQL, Datalens, Tableau
 |[User metrics analysis](https://github.com/bobritsky/Portfolio/tree/48a897b3550977ff84d291eb609f9cbd473191e3/User%20Metrics)|We will find the answer for bad ROI figures using user metrics analysis based on logs from the app| Python, Pandas, Matplotlib
 | [Moscow food market analysis](https://github.com/bobritsky/Portfolio/tree/783a64eb376885f6dba014d2901b9b60e2f34cd0/Food_Market_Yandex) | A market study  based on the open data about public catering establishments in Moscow. Task was to analyse data and find correlation between various indicators to help stakeholders with  selection of a location for a new coffee shop. | Python, Pandas, Seaborn, Plotly, Folium
