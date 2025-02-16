@@ -2,6 +2,7 @@
 
 | Project name | Description  | Tools & Areas |
 | :--------------------: | :---------------------: |:---------------------------:|
+|[Tableau dashboard of world conflicts](https://public.tableau.com/shared/5BXZTG7NF?:display_count=n&:origin=viz_share_link)|Dashboard with details on world conflicts from 1775 till present time - countries, conflicts on the timeline, casualties, links for details on Encyclopaedia Britannica website | Python for Britannica website data parsing and processing, Tableau 
 |[Traffic accidents data analysis](https://github.com/bobritsky/Portfolio/tree/main/Traffic_accidents_analysis)|in-depth analysis, hypothesis testing and dashboard for a non-commercial organisation working with traffic accidents in Russia as a client | Python, Datalens, web-scraping 
 |[Tableau and Datalens dashboards for a charity fund](https://github.com/bobritsky/Portfolio/tree/957635b47a2e4f0d8d061ba6099c933aead4c1c1/Charity_fund_dashboard)|Project of making dashboards of all required metrics for a charity fund as a client| Python, PostgreSQL, Datalens, Tableau
 |[User metrics analysis](https://github.com/bobritsky/Portfolio/tree/48a897b3550977ff84d291eb609f9cbd473191e3/User%20Metrics)|We will find the answer for bad ROI figures using user metrics analysis based on logs from the app| Python, Pandas, Matplotlib
